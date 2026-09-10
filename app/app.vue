@@ -7,7 +7,7 @@
         class="mx-auto flex max-w-7xl items-center justify-between px-6 py-3.5 lg:px-8">
         <!-- Logo -->
         <a href="#" class="text-2xl font-bold tracking-tight">
-          Wajiha<span class="text-[#8B5CF6]">.</span>
+          Portfolio<span class="text-[#8B5CF6]">.</span>
         </a>
 
         <!-- Navigation -->
@@ -80,7 +80,7 @@
             </h1>
 
             <p
-              class="mt-4 max-w-2xl text-xl font-medium leading-relaxed text-[#06B6D4] sm:text-2xl">
+              class="mt-4 max-w-2xl text-xl font-medium leading-relaxed text-[#06B6D4] sm:text-xl">
               Hi, I'm Wajiha 👋 I'm a passionate
               <span class="text-[#8B5CF6]">
                 Front-End Web Developer & Full-Stack Web Developer
