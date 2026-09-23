@@ -25,6 +25,12 @@
           </NuxtLink>
 
           <NuxtLink
+            to="/services"
+            class="text-sm text-slate-300 transition hover:text-white">
+            Services
+          </NuxtLink>
+
+          <NuxtLink
             to="/skills"
             class="text-sm text-slate-300 transition hover:text-white">
             Skills
